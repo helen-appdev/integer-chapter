@@ -9,4 +9,4 @@
 p "How old are you?"
 age = gets.to_i
 year = 2021 - age
-p "You were born in #{year}."
+p "Wow, you were born in #{year}. You're old!"
