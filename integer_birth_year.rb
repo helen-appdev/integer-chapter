@@ -7,3 +7,6 @@
 #   "Wow, you were born in 1940. You're old!"
 
 p "How old are you?"
+age = gets.to_i
+year = 2021 - age
+p "You were born in #{year}."
